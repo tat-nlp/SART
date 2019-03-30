@@ -46,7 +46,6 @@ Scores for Similarity and Relatedness datasets were obtained by  averaging score
 
 ## Citing
 
-
 Find more details about datasets construction and evaluations in the dedicated paper:
 
 **SART - Similarity, Analogies, and Relatedness for Tatar language: New Benchmark Datasets for Word Embeddings Evaluation**
@@ -62,3 +61,7 @@ If you use these datasets, please cite as follows:
   year={2019}
 }
 ```
+
+## License
+
+The provided datasets are licensed under the Creative Commons Attribution 4.0 International. A full copy of the license can be found in `LICENSE.txt`.
