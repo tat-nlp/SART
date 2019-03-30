@@ -7,7 +7,7 @@ This repository holds three evaluation datasets for the Tatar language:
 - <a href="https://github.com/tat-nlp/SART/blob/master/datasets/tt_relatedness.csv">Relatedness dataset</a> - 252 pairs of words along with averaged human scores of *relatedness* degree between the words. For example, "<span style="font-family: Courier New;">урам, балалар, 5.38</span>".
 - <a href="https://github.com/tat-nlp/SART/blob/master/datasets/tt_analogies.txt">Analogies dataset</a> - set of analytical questions of the form A:B::C:D, meaning A to B as C to D, and D is to be predicted. For example, "<span style="font-family: Courier New;">Әнкара Төркия Париж Франция</span>". Contains 34 categories, and in total 30 144 questions. 
 
-Similarity and Relatedness datasets were built based on [WordSim353](https://http://alfonseca.org/eng/research/wordsim353.html) dataset, and Analogies dataset is an extension of several existing datasets, including [Google analogies test set](https://aclweb.org/aclwiki/Google_analogy_test_set_(State_of_the_art)).
+Similarity and Relatedness datasets were built based on [WordSim353](http://alfonseca.org/eng/research/wordsim353.html) dataset, and Analogies dataset is an extension of several existing datasets, including [Google analogies test set](https://aclweb.org/aclwiki/Google_analogy_test_set_(State_of_the_art)).
 
 ## Purpose  
 
