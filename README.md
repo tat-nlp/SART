@@ -48,7 +48,7 @@ Scores for Similarity and Relatedness datasets were obtained by  averaging score
 
 Find more details about datasets construction and evaluations in the dedicated paper:
 
-**SART - Similarity, Analogies, and Relatedness for Tatar language: New Benchmark Datasets for Word Embeddings Evaluation**
+[**SART - Similarity, Analogies, and Relatedness for Tatar language: New Benchmark Datasets for Word Embeddings Evaluation**](https://arxiv.org/pdf/1904.00365.pdf)
 
 
 If you use these datasets, please cite as follows:
@@ -57,7 +57,7 @@ If you use these datasets, please cite as follows:
 @article{khusainova2019sart,
   title={Similarity, Analogies, and Relatedness for Tatar language: New Benchmark Datasets for Word Embeddings Evaluation},
   author={Albina Khusainova, Adil Khan, and Adín Ramírez Rivera},
-  journal={arXiv preprint arXiv:nnnn.nnnnn},
+  journal={arXiv preprint arXiv:1904.00365},
   year={2019}
 }
 ```
